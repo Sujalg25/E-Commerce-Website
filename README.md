@@ -11,10 +11,7 @@ This repository contains the source code for an E-commerce website built using m
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sudhanshumishra604/E-commerce-website.git
+
 
 ##Video
 
